@@ -9,6 +9,8 @@ Run in a virtual machine or boot using quemu most preferrably (I am not responsi
 ----
 
 Created on a Linux Mint 18.3 (Sylvia) system
+
 Created using c++ with exception to some necessary assembler files
+
 Includes support for all alphanumerical keyboard keys and special characters including (";", "'", ",", ".", "/", "\n", " ")
 * If you want to add additional support for more keyboard keys add a case to the keyboard.cpp file under the switch(key) switch 
