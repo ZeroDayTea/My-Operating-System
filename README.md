@@ -13,4 +13,5 @@ Created on a Linux Mint 18.3 (Sylvia) system
 Created using c++ with exception to some necessary assembler files
 
 Includes support for all alphanumerical keyboard keys and special characters including (";", "'", ",", ".", "/", "\n", " ")
-* If you want to add additional support for more keyboard keys add a case to the keyboard.cpp file under the switch(key) switch 
+* If you want to add additional support for more keyboard keys add a case to the keyboard.cpp file under the switch(key) switch and compile with something like gcc to keyboard.o
+* If you want to modify Operating System activity at startup modify the kernel.cpp file under the kernelMain() function and compile with somethign like gcc to kernel.o
