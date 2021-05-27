@@ -1,4 +1,5 @@
 # My-Operating-System
+##Created in collaboration with @ardupper
 Operating System written in C++ that can print text and manage input from a keyboard
 
 Created by following the tutorial series at: https://www.youtube.com/watch?v=1rnA6wpF0o4&list=PLHh55M_Kq4OApWScZyPl5HhgsTJS9MZ6M and then following my own path with help from http://wiki.osdev.org
